@@ -65,6 +65,7 @@ The Unnamed Network is established to create a secure, collaborative, and mutual
   * These Resolutions shall not conflict with any stipulations, requirements, limitations, or other considerations set forth within the Charter. In any cases of conflict, the Charter shall have precedence.
   * Resolutions shall be passed by straight majority vote.
 * **Charter Amendments** - Amendments to the Charter may be made by Council Resolution, but only with a three-quarters majority vote.
+  
 2.2 **Network Org Membership** – Each Network Member shall be a player-run Org in Star Citizen. Continued Membership in The Network is voluntary, and Members who join may elect to leave if they feel it is no longer in their Orgs’ interests.
   * **Induction into The Network** - Approval of new Member Orgs being sponsored to join The Network shall be done by a three-fifths vote of the Network Council, after consideration of their sponsorship.
     * Prospective Member Orgs must be sponsored by an existing Member of The Network.
@@ -97,6 +98,7 @@ The Unnamed Network is established to create a secure, collaborative, and mutual
     * After all arguments and questions are heard, the Council shall make deliberate, followed by a vote requiring straight majority.
     * If the Ejection vote fails, the Member who initiated the Ejection Proceedings shall be barred from initiating Ejection Proceedings against the specified Member Org for a period of six months, and any other Member for a period of two months.
   * **Player Bans** - Any Member Org reserves the right to ban an individual player from their Org, which will trigger the player to be suspended from all Network services pending review. If a three-fifths vote occurs by the Network Council to ban the player from The Network, that player will be banned from all Member Orgs and Network services.
+    
 2.3 **Network Hub** – The Network Hub is a specialized Member Org that serves as the central administrative and operational entity for The Network, managing shared resources and facilitating coordination among Member Orgs.
   * **Purpose and Structure** - The Network Hub forgoes the structure of an ordinary Org and operates solely as a centralized service Org. It manages all shared assets, services, and serves as the single point-of-truth for The Network, including but not limited to communication channels, shared databases, event calendars, and resource allocation systems.
   * **Selection and Change** - The initial Network Hub shall be designated by the Founding Members or by unanimous decision of the Network Council. The Hub can only be changed or replaced by a unanimous Council decision, ensuring stability and continuity in Network operations.
