@@ -42,12 +42,14 @@
 > The following is the collection of Articles that define the Supremacy-Law of the Network.
 
 ### ARTICLE I: ESTABLISHMENT
+
 The Unnamed Network is established to create a secure, collaborative, and mutually beneficial community of player-run organizations across Star Citizen. Our core objectives are to:
 1. **Promote collective security** – Provide a mutual defense against external threats, promote coordinated operations in the event of war, provide timely assistance in the face of adversity, and develop a collective pool of resources and assets to be used to provide disaster relief.
 2. **Foster economic prosperity** – Enable free, fair, and mutually beneficial trade, build economic relationships and partnerships, promote resource sharing, and develop joint infrastructure projects.
 3. **Community Growth** – Build a larger community welcoming to new and old players alike, provide training and new gameplay opportunities, and build a network of orgs where any player can find their home.
 
 ### ARTICLE II: ORGANIZATION AND ADMINISTRATION
+
 2.1 **Network Council** – The Network shall be administered by a council consisting of a single representative from each Member Org.
 * **Fleet Admirals** - Member Orgs shall be represented by a single Fleet Admiral, appointed by the respective Member Org. This Fleet Admiral may be the leader of the Org, or an ambassador specifically appointed to represent their Org.
   * Orgs shall appoint their Fleet Admirals as they see fit, however, Fleet Admirals shall be the primary voice for their Org in Council meetings and decisions, and shall hold authority within their Org to make binding agreements on behalf of their Org.
@@ -117,7 +119,9 @@ The Unnamed Network is established to create a secure, collaborative, and mutual
     * The Hub may appoint internal staff or subcommittees as needed, subject to oversight by the Board of Directors.
     * All Hub decisions affecting The Network as a whole must be approved by the Network Council or align with existing Council Resolutions.
   * **Accountability** - The Network Hub is accountable to the Network Council. Any misconduct or inefficiency by the Hub may trigger review proceedings similar to Org Misconduct, potentially leading to censure or replacement via unanimous vote.
+    
 ### ARTICLE III: NETWORK COMMITMENTS
+
 3.1. **Collective Security and Aid**
   * **Mutual Defense** - Members will commit to the defense of all Network Members against hostile groups, and commit to supporting combat and wartime efforts in Network-sanctioned conflicts.
     * An attack on one is an attack on all. Any outside entity that initiates hostilities against any Member of The Network will be initiating hostilities against the entire Network. Network Members will dedicate every reasonable effort to protect each other in the event of an outside attack, and neutralize the threat to prevent or minimize a recurrence of the threat.
@@ -130,6 +134,7 @@ The Unnamed Network is established to create a secure, collaborative, and mutual
     * Drawing on the relief pool may be supplemented by any central Network bank or other resource pools, and donations of time and material from other Member Orgs.
     * If necessary, any efforts and distribution of resources will be coordinated by the Network Council, or an individual or individuals appointed by the Council in each case to manage the disaster relief on their behalf.
   * **General Support** - Member Orgs agree to provide general assistance, as they are reasonably able to support, to each other on a day-to-day basis.
+    
 3.2 **Economic Partnerships**
   * **Favored Client Status** - All Members may trade any in-game commodity or resource unless explicitly prohibited by CIG’s Terms of Service, EULA, or any other Real-Life laws.
     * Production of “craftable” materials and components for other Network Members shall be supplied to Network Members at not more than 50% above production cost, or 50% below market rate, whichever is higher.
@@ -143,6 +148,7 @@ The Unnamed Network is established to create a secure, collaborative, and mutual
     * Member Orgs may be required to establish some joint base access to The Network as a whole. Exact requirements shall be evaluated by the Council based on in-game mechanics, and logistical and strategic concerns, and passed by Council Resolution.
   * **Central Bank** - The Network will maintain a Central Bank system that maintains a Network Treasury that manages the Common Supply Depot, Central Currency Bank, & Network Stockpiles.
     * The administration of this central bank/treasury shall be done by the Network Council, or an individual or group appointed to manage it in the Council’s stead.
+      
 3.3. **Community Growth Support**
   * **Event Participation** - Member Orgs are expected to participate in Network Level Events & Member Org Hosted Events when able.
     * Participation in events is not mandatory, but participation in Network events and contributions to The Network will be factors evaluated when considering the approval of requests for the use of Network resources.
