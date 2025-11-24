@@ -61,7 +61,7 @@ The Unnamed Network is established to create a secure, collaborative, and mutual
 * **Player Votes** - The Network Council may, at their discretion, defer decisions of significant magnitude to a Network-wide vote of all users of a specified Network Rank, and Network ranks above the specified rank.
 * **Veto Vote** - Each Member has a single Veto vote that may be cast to block any single vote by the Network Council, terminating the vote with a No result.
   * Items terminated by a Veto vote shall not be brought back to the floor for consideration during that session except by a super majority vote by all members of the Council.
-  * Once a Member has utilized their Veto vote, it shall be considered expended until it refreshes once per quarter.
+  * Once a Member has utilized their Veto vote, it shall be considered expended until it refreshes once per six(6) months.
 * **Council Resolutions** - The Network Council may establish additional policies, guidelines, processes, rules, regulations, appointments, or proceedings as deemed necessary by the Council by passing a Council Resolution.
   * These Resolutions shall carry the force of law within The Network.
   * These Resolutions shall not conflict with any stipulations, requirements, limitations, or other considerations set forth within the Charter. In any cases of conflict, the Charter shall have precedence.
